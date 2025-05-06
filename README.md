@@ -107,18 +107,6 @@ Even when tested with creative, quirky, or obscure plots, the system often retur
 
 ---
 
-## 🧭 File Structure
-
-```
-.
-├── wiki_movie_plots_deduped.csv     # Original movie plot dataset
-├── embeddings.pkl                   # Precomputed embeddings
-├── movie_recommendation.py         # Main script (consolidate functions here)
-├── README.md                        # This file
-```
-
----
-
 ## ✅ To-Do
 
 - [ ] Switch between sentence-based and keyword-based embeddings easily.
